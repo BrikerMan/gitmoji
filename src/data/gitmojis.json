@@ -85,41 +85,6 @@
       "name": "lock"
     },
     {
-      "emoji": "🍎",
-      "entity": "&#x1f34e;",
-      "code": ":apple:",
-      "description": "修复 MacOS 平台问题",
-      "name": "apple"
-    },
-    {
-      "emoji": "🐧",
-      "entity": "&#x1f427;",
-      "code": ":penguin:",
-      "description": "修复 Linux 上的问题",
-      "name": "penguin"
-    },
-    {
-      "emoji": "🏁",
-      "entity": "&#x1f3c1;",
-      "code": ":checkered_flag:",
-      "description": "修复 Windows 上的问题",
-      "name": "checkered-flag"
-    },
-    {
-      "emoji": "🤖",
-      "entity": "&#129302;",
-      "code": ":robot:",
-      "description": "修复 Android 平台的问题",
-      "name": "robot"
-    },
-    {
-      "emoji": "🍏",
-      "entity": "&#127823;",
-      "code": ":green_apple:",
-      "description": "修复 iOS 平台的问题",
-      "name": "green-apple"
-    },
-    {
       "emoji": "🔖",
       "entity": "&#x1f516;",
       "code": ":bookmark:",
@@ -168,6 +133,7 @@
       "description": "指定特定版本依赖",
       "name": "pushpin"
     },
+
     {
       "emoji": "👷",
       "entity": "&#x1f477;",
@@ -202,13 +168,6 @@
       "code": ":heavy_minus_sign:",
       "description": "移除依赖",
       "name": "heavy-minus-sign"
-    },
-    {
-      "emoji": "🐳",
-      "entity": "&#x1f433;",
-      "code": ":whale:",
-      "description": "在 Docker 中运行",
-      "name": "whale"
     },
     {
       "emoji": "🔧",
@@ -300,13 +259,6 @@
       "code": ":bento:",
       "description": "增加或更新资源文件",
       "name": "bento"
-    },
-    {
-      "emoji": "👌",
-      "entity": "&#x1f44c;",
-      "code": ":ok_hand:",
-      "description": "更新代码，因为代码审核变更",
-      "name": "ok-hand"
     },
     {
       "emoji": "♿️",
