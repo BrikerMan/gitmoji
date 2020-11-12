@@ -4,8 +4,8 @@
 	</a>
 </p>
 <p align="center">
-	<a href="https://travis-ci.com/carloscuesta/gitmoji">
-		<img src="https://img.shields.io/travis/com/carloscuesta/gitmoji?style=flat-square"
+	<a href="https://github.com/carloscuesta/gitmoji/actions?query=workflow%3ACI+branch%3Amaster">
+		<img src="https://img.shields.io/github/workflow/status/carloscuesta/gitmoji/CI?style=flat-square"
 			 alt="Build Status">
 	</a>
 	<a href="https://gitmoji.carloscuesta.me">
@@ -35,6 +35,10 @@ npm i -g gitmoji-cli
 - [`gitmoji-changelog`](https://github.com/frinyvonnick/gitmoji-changelog/): A changelog generator for gitmoji.
 - [`gitmemoji`](https://github.com/lalalilo/gitmemoji/): A game to learn gitmojis.
 - [`gitmoji-browser-extension`](https://github.com/johannchopin/gitmoji-browser-extension): The Gitmoji extension to easily search and copy gitmojis 😜
+- [`gitmoji-vscode`](https://github.com/vtrois/gitmoji-vscode): A VSCode extension for your git commit messages 😄
+- [`gitmoji-intellij-plugin`](https://plugins.jetbrains.com/plugin/12383-gitmoji): A Jetbrains suite plugin to easily add gitmoji when committing in the IDE
+- [`gitmoji-sublimetext`](https://packagecontrol.io/packages/Gitmoji): A Sublime Text plugin to add emojis in git commit messages 😄
+- [`gitimoji`](https://github.com/TimoZacherl/gitimoji): A Gitmoji App for macOS
 
 ## Contributing to gitmoji
 

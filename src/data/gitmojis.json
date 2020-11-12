@@ -420,6 +420,13 @@
       "code": ":wastebasket:",
       "description": "标记需要清理的废弃代码",
       "name": "wastebasket"
+    },
+    {
+      "emoji": "🛂",
+      "entity": "&#x1F6C2;",
+      "code": ":passport_control:",
+      "description": "授权，角色和权限相关工作",
+      "name": "passport-control"
     }
   ]
 }
