@@ -22,7 +22,7 @@
     "@zeit/next-sass": "^1.0.1",
     "clipboard": "^2.0.4",
     "flow-bin": "^0.137.0",
-    "husky": "^4.2.5",
+    "husky": "^7.0.0",
     "identity-obj-proxy": "^3.0.0",
     "jest": "^26.1.0",
     "jsonlint": "^1.6.3",
