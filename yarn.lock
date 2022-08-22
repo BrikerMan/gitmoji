@@ -4027,10 +4027,10 @@ find-versions@^3.2.0:
   dependencies:
     semver-regex "^2.0.0"
 
-flow-bin@^0.137.0:
-  version "0.137.0"
-  resolved "https://registry.yarnpkg.com/flow-bin/-/flow-bin-0.137.0.tgz#322a15b3744195af1e02bf1fec0a716296aee7d5"
-  integrity sha512-ytwUn68fPKK/VWVpCxJ4KNeNIjCC/uX0Ll6Z1E98sOXfMknB000WtgQjKYDdO6tOR8mvXBE0adzjgCrChVympw==
+flow-bin@^0.185.1:
+  version "0.185.1"
+  resolved "https://registry.yarnpkg.com/flow-bin/-/flow-bin-0.185.1.tgz#dbd3728405ff5aefd147e6c30a27381e9926ffb1"
+  integrity sha512-TUDZmyXpyKZin3oYtPke1wS5mT2ErCXEPuPsX1s6GgWhP7H7Z/qj6pg7CPcCYt5yNn2Im6k5VWx6J7/5a2stXA==
 
 flush-write-stream@^1.0.0:
   version "1.1.1"
